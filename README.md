@@ -8,6 +8,7 @@ Before chrooting:
 > **pacstrap /mnt base linux linux-firmware linux-headers [intel/amd]-ucode networkmanager sudo nano plasma dolphin kate konsole firefox nvidia-dkms nvidia-settings base-devel git grub efibootmgr os-prober gnome-keyring ntfs-3g noto-fonts noto-fonts-cjk noto-fonts-emoji noto-fonts-extra libappindicator-gtk3 bluez bluez-utils**
 
 **[intel/amd]-ucode** - Based on your CPU, choose either **amd-ucode** or **intel-ucode**
+
 **nvidia-dkms nvidia-settings** - Only for Nvidia
 
 
